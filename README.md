@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Angular, React
 - 👯 I’m looking to collaborate on Web development Project
 - 💬 Ask me about Web development, UI and UX, WordPress
-- 📫 How to reach me: [MyLinkedIn Profile](https://www.linkedin.com/in/tarun-vyas-507376175/) or [Email] (tarunvyas567@gmail.com)
+- 📫 How to reach me: [MyLinkedIn Profile](https://www.linkedin.com/in/tarun-vyas-507376175/) or [Email](tarunvyas567@gmail.com)
